@@ -12,7 +12,7 @@
       },
       {
         "package": "Erik",
-        "repositoryURL": "https://github.com/phimage/Erik.git",
+        "repositoryURL": "https://github.com/kwiadmin/Erik",
         "state": {
           "branch": null,
           "revision": "109a130e9cdb00789a43a7a625293eeb12d22989",
@@ -30,7 +30,7 @@
       },
       {
         "package": "Kanna",
-        "repositoryURL": "https://github.com/tid-kijyun/Kanna.git",
+        "repositoryURL": "https://github.com/kwiadmin/Kanna",
         "state": {
           "branch": null,
           "revision": "c657fb9f5827ef138068215c76ad0bb62bbc92da",
@@ -39,7 +39,7 @@
       },
       {
         "package": "Swifter",
-        "repositoryURL": "https://github.com/httpswift/swifter.git",
+        "repositoryURL": "https://github.com/kwiadmin/swifter",
         "state": {
           "branch": null,
           "revision": "9483a5d459b45c3ffd059f7b55f9638e268632fd",

@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "BrightFutures",
-        "repositoryURL": "https://github.com/Thomvis/BrightFutures.git",
+        "repositoryURL": "https://github.com/kwiadmin/BrightFutures",
         "state": {
           "branch": null,
           "revision": "9279defa6bdc21501ce740266e5a14d0119ddc63",
@@ -15,13 +15,13 @@
         "repositoryURL": "https://github.com/kwiadmin/Erik",
         "state": {
           "branch": null,
-          "revision": "109a130e9cdb00789a43a7a625293eeb12d22989",
-          "version": "5.1.0"
+          "revision": "ba51253647b81577d6497231c2041043248ab85e",
+          "version": "5.1.0+kwi"
         }
       },
       {
         "package": "FileKit",
-        "repositoryURL": "https://github.com/nvzqz/FileKit.git",
+        "repositoryURL": "https://github.com/kwiadmin/FileKit",
         "state": {
           "branch": null,
           "revision": "826d9161b184509f80d85c28cd612d630646de98",
